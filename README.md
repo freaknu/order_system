@@ -124,16 +124,6 @@ You can modify the following parameters in `Main.java`:
 - **Rate Limiting**: Controlling system load with semaphores
 - **Graceful Shutdown**: Proper thread pool termination
 
-## Future Enhancements
-
-- Add persistent storage (database integration)
-- Implement order cancellation feature
-- Add real payment gateway integration
-- Introduce order priority queue
-- Add comprehensive logging framework
-- Implement retry mechanism for failed orders
-- Add metrics and monitoring
-- Implement distributed processing with message queues (e.g., RabbitMQ, Kafka)
 
 ## License
 
